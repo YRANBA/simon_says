@@ -3,7 +3,8 @@ import LEDRGB as LED
 import time
 import random
 from getpass import getpass
-#setup
+#setup for buzzer and led
+
 
 GPIO.setmode(GPIO.BOARD)
 GPIO.setwarnings(False)
